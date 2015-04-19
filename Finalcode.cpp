@@ -213,7 +213,7 @@ int main()
 
         {
 
-                system("color 20");
+                system("color 50");
 
                 system("cls");
 
